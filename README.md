@@ -2,3 +2,4 @@
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nypec&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nypec&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
